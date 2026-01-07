@@ -32,9 +32,13 @@ This Introduction page will be replaced by a list of files copied and the total 
 
 You may interrupt the operation by clicking the ```"Stop"``` button but the copies of files already processed will remain in the output folder.  If you select ```"Ask"``` option for the Duplicate Files radio group, a reply of ```"Cancel"``` when asked will also stop the operation.
 
+Version 2 tests new features of file copy.  Counts of files copied,duplicate files overwritten and duplicate files not copied arekept by the copyfolder functions and are reported by this program at job completion time.
 
+A new option allows user to specify that all files found be copied to the same output folder, ignoring input subfolder directory structure. This increases the likleyhood that duplicate file names will be found.  The ```"Ask"``` dialog when duplicates are found now has ```"Yes to all"``` and ```"No to all"``` buttons to specify a default action when additional duplicate file names are encountered}
 
+Version 3 change the file date test to use ```"Last Modified Date"``` instead of ```"Creation Date"``` when deciding which file is newer for overwriting decisions.  It also now checks and ignores copying a source subfolder if it also happens to be the destination folder for the copy operation.co
 
+</br>
 
 # Masks:
 File masks can be a useful way to select a set of files meeting specific criteria. A mask is a string of characters with defined meanings. Character matches are not case sensitive, upper and lower case versions of a letter will match.
