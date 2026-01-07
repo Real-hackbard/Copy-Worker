@@ -45,7 +45,7 @@ Here are some examples: (In these examples double quotes (") are used to identif
 | ```*.txt```     | match any string that ends with ```".txt"```     |
 | ```2026*.doc```     |  match any string that starts with ```"2026"``` and ends with ```".doc"```     |
 | ```2026[abc].log```     |  match a flename that is 11 characters long,  has an ```"a"```, ```"b"```, or ```"c'``` as its 7th character, and ends with ```".log"```     |
-| ```*[0-9][0-9]*.*```      | match any file name that has a 2 digit number anywhere in thebase part of the name.     |
+| ```*[0-9][0-9]*.*```      | match any file name that has a 2 digit number anywhere in the base part of the name.     |
 | ```[!e][!x]*.*```     | match any file name that does not begin with ```"ex"```     |
 
 
