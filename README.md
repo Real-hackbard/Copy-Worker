@@ -29,8 +29,8 @@ File masks can be a useful way to select a set of files meeting specific criteri
 | :-----------: | :----------- |
 | ```* (asterisk)```     | a "wild card" indicating an unspecified number of characters in the file name.     |
 | ```? (question mark)```     | a wild card which matches a single character position in the file name.     |
-| Zelle 2,1     | Zelle 2,2     |
-| Zelle 2,1     | Zelle 2,2     |
+| ```[  (open bracket)```     |  beginning of a "set" definition, a set of alternative characters for specific position.     |
+| ```] (close bracket)```     | the end of a set defininition     |
 | Zelle 2,1     | Zelle 2,2     |
 | Zelle 2,1     | Zelle 2,2     |
 | Zelle 2,1     | Zelle 2,2     |
