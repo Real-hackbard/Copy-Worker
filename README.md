@@ -36,9 +36,18 @@ File masks can be a useful way to select a set of files meeting specific criteri
 
 </br>
 
+Here are some examples: (In these examples double quotes (") are used to identify literals but are not part of the string being referenced.)
+
 # Examples:
 
-
+| Example | Description |
+| :-----------: | :----------- |
+| ```*.*```     | match any string that has a dot (.) in any position     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
+| Zelle 1,1     | Zelle 1,2     |
+| Zelle 2,1     | Zelle 2,2     |
 
 
 
