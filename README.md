@@ -26,10 +26,10 @@ Many operating systems also provide for copying files via a graphical user inter
 File masks can be a useful way to select a set of files meeting specific criteria. A mask is a string of characters with defined meanings. Character matches are not case sensitive, upper and lower case versions of a letter will match.
 
 | Mask | Description |
-| :-----------: | :-----------: |
-| *  (asterisk)     | a "wild card" indicating an unspecified number of characters in the 
+| :-----------: | :----------- |
+| ```* (asterisk)```     | a "wild card" indicating an unspecified number of characters in the 
 file name.     |
-| ? (question mark)     | a wild card which matches a single character position in the 
+| ```? (question mark)```     | a wild card which matches a single character position in the 
 file name.     |
 | Zelle 2,1     | Zelle 2,2     |
 | Zelle 2,1     | Zelle 2,2     |
