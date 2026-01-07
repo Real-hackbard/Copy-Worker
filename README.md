@@ -67,8 +67,11 @@ Here are some examples: (In these examples double quotes (") are used to identif
 | ```*[0-9][0-9]*.*```      | match any file name that has a 2 digit number anywhere in the base part of the name.     |
 | ```[!e][!x]*.*```     | match any file name that does not begin with ```"ex"```     |
 
+</br>
 
 # Mask Edit:
+This section in UCopyFolder3.pas defines the copy operation and can be modified as desired to determine the copy operation and the mask.
+
 ```pascal
 function copyfolder(fromfolderIn, tofolderIn,mask:string; dupfileopts:integer;
                copysubfolders, CopyToRoot,ResetReadOnly:boolean;
