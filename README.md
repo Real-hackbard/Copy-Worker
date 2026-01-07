@@ -218,12 +218,12 @@ end;
 </br>
 
 # Copy utilities:
-* FastCopy
-* Rclone
-* RichCopy
-* rsync
-* TeraCopy
-* Ultracopier
+* [FastCopy](https://en.wikipedia.org/wiki/FastCopy)
+* [Rclone](https://en.wikipedia.org/wiki/Rclone)
+* [RichCopy](https://en.wikipedia.org/wiki/RichCopy)
+* [rsync](https://en.wikipedia.org/wiki/Rsync)
+* [TeraCopy](https://en.wikipedia.org/wiki/TeraCopy)
+* [Ultracopier](https://en.wikipedia.org/wiki/Ultracopier)
   
 
 
