@@ -70,7 +70,7 @@ Here are some examples: (In these examples double quotes (") are used to identif
 </br>
 
 # Mask Edit:
-This section in UCopyFolder3.pas defines the copy operation and can be modified as desired to determine the copy operation and the mask.
+This section in ```UCopyFolder3.pas``` defines the copy operation and can be modified as desired to determine the copy operation and the mask.
 
 ```pascal
 function copyfolder(fromfolderIn, tofolderIn,mask:string; dupfileopts:integer;
