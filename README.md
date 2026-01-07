@@ -31,9 +31,12 @@ File masks can be a useful way to select a set of files meeting specific criteri
 | ```? (question mark)```     | a wild card which matches a single character position in the file name.     |
 | ```[  (open bracket)```     |  beginning of a "set" definition, a set of alternative characters for specific position.     |
 | ```] (close bracket)```     | the end of a set defininition     |
-| Zelle 2,1     | Zelle 2,2     |
-| Zelle 2,1     | Zelle 2,2     |
-| Zelle 2,1     | Zelle 2,2     |
+| ```!  (exclamation point)```     | may appear immediately following a [ to indicate that any character not in the set counts as a match.     |
+| ```-  (hyphen)```     | separating two characters in a set indicates a range of character to test.
+
+</br>
+
+# Examples:
 
 
 
