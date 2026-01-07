@@ -215,6 +215,16 @@ begin
 end;
 ```
 
+</br>
+
+# Copy utilities:
+* FastCopy
+* Rclone
+* RichCopy
+* rsync
+* TeraCopy
+* Ultracopier
+  
 
 
 
