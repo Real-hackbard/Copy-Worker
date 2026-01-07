@@ -22,6 +22,15 @@ Many operating systems also provide for copying files via a graphical user inter
 
 </br>
 
+This program was written to test a ```"CopyFolder"``` function for use by Delphi programmers, but it has enough  features to perhaps serve as a useful utility.
+
+Usage is straight-forward:  Select an input folder and an output folder, which may be an existing folder or a new one. Set the other options and click the "Copy" button to complete the operation. The ```"File masks"``` tab above gives more information about defining  mask strings.
+
+
+
+
+
+
 # Masks:
 File masks can be a useful way to select a set of files meeting specific criteria. A mask is a string of characters with defined meanings. Character matches are not case sensitive, upper and lower case versions of a letter will match.
 
