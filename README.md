@@ -45,7 +45,7 @@ Here are some examples: (In these examples double quotes (") are used to identif
 | ```*.*```     | match any string that has a dot (.) in any position     |
 | ```*.txt```     | match any string that ends with ".txt"     |
 | ```2026*.doc```     |  match any string that starts with "2026" and ends with ".doc"     |
-| Zelle 2,1     | Zelle 2,2     |
+| ```2026[abc].log```     |  match a flename that is 11 characters long,  has an ```"a"```, ```"b"```, or ```"c'``` as its 7th character, and ends with ".log"     |
 | Zelle 1,1     | Zelle 1,2     |
 | Zelle 2,1     | Zelle 2,2     |
 
