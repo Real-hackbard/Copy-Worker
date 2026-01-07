@@ -36,9 +36,8 @@ File masks can be a useful way to select a set of files meeting specific criteri
 
 </br>
 
-Here are some examples: (In these examples double quotes (") are used to identify literals but are not part of the string being referenced.)
-
 # Examples:
+Here are some examples: (In these examples double quotes (") are used to identify literals but are not part of the string being referenced.)
 
 | Example | Description |
 | :-----------: | :----------- |
@@ -46,7 +45,7 @@ Here are some examples: (In these examples double quotes (") are used to identif
 | ```*.txt```     | match any string that ends with ".txt"     |
 | ```2026*.doc```     |  match any string that starts with "2026" and ends with ".doc"     |
 | ```2026[abc].log```     |  match a flename that is 11 characters long,  has an ```"a"```, ```"b"```, or ```"c'``` as its 7th character, and ends with ".log"     |
-| Zelle 1,1     | Zelle 1,2     |
+| ```*[0-9][0-9]*.*```      | match any file name that has a 2 digit number anywhere in thebase part of the name.     |
 | Zelle 2,1     | Zelle 2,2     |
 
 
