@@ -16,6 +16,15 @@ Generally, an operating system command-line [shell](https://en.wikipedia.org/wik
 
 Many operating systems also provide for copying files via a graphical user interface, such as a file manager. It may provide for [copy-and-paste](https://en.wikipedia.org/wiki/Cut,_copy,_and_paste) and [drag-and-drop](https://en.wikipedia.org/wiki/Drag_and_drop) user experience.
 
+</br>
+
+![CopyFolder](https://github.com/user-attachments/assets/529a3e96-f9fd-4ada-a0c3-d04273725f90)
+
+</br>
+
+
+
+
 
 
 
