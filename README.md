@@ -22,10 +22,15 @@ Many operating systems also provide for copying files via a graphical user inter
 
 </br>
 
+# Instructions:
+
 This program was written to test a ```"CopyFolder"``` function for use by Delphi programmers, but it has enough  features to perhaps serve as a useful utility.
 
 Usage is straight-forward:  Select an input folder and an output folder, which may be an existing folder or a new one. Set the other options and click the "Copy" button to complete the operation. The ```"File masks"``` tab above gives more information about defining  mask strings.
 
+This Introduction page will be replaced by a list of files copied and the total count will be displayed when the operation has been completed.
+
+You may interrupt the operation by clicking the ```"Stop"``` button but the copies of files already processed will remain in the output folder.  If you select ```"Ask"``` option for the Duplicate Files radio group, a reply of ```"Cancel"``` when asked will also stop the operation.
 
 
 
