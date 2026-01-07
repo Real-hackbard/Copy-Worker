@@ -44,7 +44,7 @@ Here are some examples: (In these examples double quotes (") are used to identif
 | :-----------: | :----------- |
 | ```*.*```     | match any string that has a dot (.) in any position     |
 | ```*.txt```     | match any string that ends with ".txt"     |
-| ```2026*.doc```     |  match any string that starts with "2006" and ends with ".doc"     |
+| ```2026*.doc```     |  match any string that starts with "2026" and ends with ".doc"     |
 | Zelle 2,1     | Zelle 2,2     |
 | Zelle 1,1     | Zelle 1,2     |
 | Zelle 2,1     | Zelle 2,2     |
