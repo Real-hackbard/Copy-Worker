@@ -10,7 +10,11 @@
 
 </br>
 
+File copying is the act of creating a new file such that it has the same content as an existing file. The operation is sometimes called cloning.
 
+Generally, an operating system command-line [shell](https://en.wikipedia.org/wiki/Shell_(computing)) provides for file copying via commands cp, copy and similar variants. mv also copies files but only when the source and destination are on different file systems. Windows also provides includes the more advanced tools: [Robocopy](https://en.wikipedia.org/wiki/Robocopy) and [xcopy](https://en.wikipedia.org/wiki/XCOPY).
+
+Many operating systems also provide for copying files via a graphical user interface, such as a file manager. It may provide for [copy-and-paste](https://en.wikipedia.org/wiki/Cut,_copy,_and_paste) and [drag-and-drop](https://en.wikipedia.org/wiki/Drag_and_drop) user experience.
 
 
 
